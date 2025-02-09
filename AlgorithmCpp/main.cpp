@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 using namespace std; 
-S
+
 int main() {
 
 	//setlocale(LC_ALL, "Turkish");		//Türkçe karakter kullanmamızı sağlar. japonca bahsetsek o zaman japanese olur
