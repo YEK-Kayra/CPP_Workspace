@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  main.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+C:\Users\yunus\source\repos\HelloC++\HelloC++\main.cpp(8,1): fatal  error C1010: ön derlenmiş üstbilgi aranırken beklenmeyen dosya sonu. kaynak kodunuza '#include "pch.h"' eklemeyi unuttunuz mu?

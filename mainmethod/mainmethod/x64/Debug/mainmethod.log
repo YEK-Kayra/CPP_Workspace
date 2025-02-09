@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\yunus\source\repos\mainmethod\main.cpp(22,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yunus\source\repos\mainmethod\main.cpp(23,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  mainmethod.vcxproj -> C:\Users\yunus\source\repos\mainmethod\x64\Debug\mainmethod.exe

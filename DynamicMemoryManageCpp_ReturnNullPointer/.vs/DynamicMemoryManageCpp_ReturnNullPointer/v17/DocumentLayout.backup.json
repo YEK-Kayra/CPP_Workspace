@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus\\source\\repos\\DynamicMemoryManageCpp_ReturnNullPointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BA92E2-D53E-4951-A97F-AD51A6E45474}|DynamicMemoryManageCpp_ReturnNullPointer.vcxproj|C:\\Users\\yunus\\source\\repos\\DynamicMemoryManageCpp_ReturnNullPointer\\Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BA92E2-D53E-4951-A97F-AD51A6E45474}|DynamicMemoryManageCpp_ReturnNullPointer.vcxproj|solutionrelative:Kaynak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kaynak.cpp",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\DynamicMemoryManageCpp_ReturnNullPointer\\Kaynak.cpp",
+              "RelativeDocumentMoniker": "Kaynak.cpp",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\DynamicMemoryManageCpp_ReturnNullPointer\\Kaynak.cpp*",
+              "RelativeToolTip": "Kaynak.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T16:13:42.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

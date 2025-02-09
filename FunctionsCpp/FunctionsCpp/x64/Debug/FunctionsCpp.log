@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\yunus\source\repos\FunctionsCpp\Kaynak.cpp(19,9): warning C4305: 'return': 'double' iken 'float' olarak kesildi
+  FunctionsCpp.vcxproj -> C:\Users\yunus\source\repos\FunctionsCpp\x64\Debug\FunctionsCpp.exe
